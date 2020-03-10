@@ -1,0 +1,287 @@
+module.exports = {
+    title: '👨🏻‍💻 Tech Interview',
+    description: 'Ready for Tech-Interview',
+    email: 'gyuseok6394@gmail.com',
+    base: '/',
+    head: [
+        ['link', { rel: 'icon', href: `/images/logo.png` }],
+        ['link', { rel: 'manifest', href: '/manifest.json' }]
+    ],
+    plugins: [
+        '@vuepress/back-to-top',
+        ['@vuepress/pwa', {
+          serviceWorker: true,
+          updatePopup: true
+        }]
+    ],
+    themeConfig: {
+        sidebar: [
+            {
+                title: '📋 Guide',
+                collapsable: false,
+                children: [ 
+                    ['/guide/면접 준비','- 면접 준비']
+                ]
+            },
+            {
+                title: '📌 Algorithm',
+                collapsable: true,
+                children: [ 
+                    ['/algorithm/Bubble Sort','- 거품 정렬(Bubble Sort)'],
+                    ['/algorithm/Selection Sort','- 선택 정렬(Selection Sort)'],
+                    ['/algorithm/Insertion Sort','- 삽입 정렬(Insertion Sort)'],
+                    ['/algorithm/Quick Sort','- 퀵 정렬(Quick Sort)'],
+                    ['/algorithm/Merge Sort','- 병합 정렬(Merge Sort)'],
+                    ['/algorithm/Heap Sort','- 힙 정렬(Heap Sort)'],
+                    ['/algorithm/Radix Sort','- 기수 정렬(Radix Sort)'],
+                    ['/algorithm/Counting Sort','- 계수 정렬(Counting Sort)'],
+                    ['/algorithm/Binary Search','- 이분 탐색(Binary Search)'],
+                    ['/algorithm/Hash Table','- 해시 테이블(Hash Table)'],
+                    ['/algorithm/DFS & BFS','- DFS & BFS'],
+                    ['/algorithm/LIS','- 최장 증가 수열(LIS)'],
+                    ['/algorithm/LCA','- 최소 공통 조상(LCA)'],
+                    ['/algorithm/Dynamic Programming','- 동적 계획법(DP)'],
+                    ['/algorithm/BitMask','- 비트마스크(BitMask)']
+                ]
+            },
+            {
+                type : 'group',
+                title: '📌 Computer Science',
+                collapsable: true,
+                children: [
+                    {
+                        type: 'group',
+                        title: '● Computer Architecture',
+                        collapsable: true,
+                        children: [
+                            ['/computer-science/computer-architecture/컴퓨터의 구성', '- 컴퓨터의 구성'],
+                            ['/computer-science/computer-architecture/중앙처리장치 작동 원리', '- 중앙처리장치(CPU) 작동 원리'],
+                            ['/computer-science/computer-architecture/캐시 메모리', '- 캐시 메모리(Cache Memory)'],
+                            ['/computer-science/computer-architecture/고정 소수점 & 부동 소수점', '- 고정 소수점 & 부동 소수점'],
+                            ['/computer-science/computer-architecture/패리티 비트 & 해밍 코드', '- 패리티 비트 & 해밍 코드'],
+                            ['/computer-science/computer-architecture/ARM 프로세서', '- ARM 프로세서']
+                        ]
+                    },
+                    {
+                        type: 'group',
+                        title: '● Data Structrue',
+                        collapsable: true,
+                        children: [
+                                ['/computer-science/data-structure/Array', '- 배열(Array)'],
+                                ['/computer-science/data-structure/Linked List', '- 연결 리스트(Linked List)'],
+                                ['/computer-science/data-structure/Array vs ArrayList vs LinkedList', '- Array & ArrayList & LinkedList'],
+                                ['/computer-science/data-structure/Stack & Queue', '- 스택 & 큐'],
+                                ['/computer-science/data-structure/Heap', '- 힙(Heap)'],
+                                ['/computer-science/data-structure/Binary Search Tree', '- 이진 탐색 트리'],
+                                ['/computer-science/data-structure/Hash', '- 해시(Hash)'],
+                                ['/computer-science/data-structure/Trie', '- 트라이(Trie)'],
+                                ['/computer-science/data-structure/B Tree & B+ Tree', '- B Tree & B+ Tree']
+                        ]
+                    },
+                    {
+                        type: 'group',
+                        title: '● Operation System',
+                        collapsable: true,
+                        children: [
+                                ['/computer-science/operation-system/Operation System', '- 운영체제란?'],
+                                ['/computer-science/operation-system/Process vs Thread', '- 프로세스와 스레드'],
+                                ['/computer-science/operation-system/Process Address Space', '- 프로세스 주소 공간'],
+                                ['/computer-science/operation-system/Interrupt', '- 인터럽트(Interrupt)'],
+                                ['/computer-science/operation-system/System Call', '- 시스템 콜(System Call)'],
+                                ['/computer-science/operation-system/PCB & Context Switching', '- PCB와 Context Switching'],
+                                ['/computer-science/operation-system/IPC', '- IPC(Inter Process Communication)'],
+                                ['/computer-science/operation-system/CPU Scheduling', '- CPU 스케줄링'],
+                                ['/computer-science/operation-system/DeadLock', '- 데드락(DeadLock)'],
+                                ['/computer-science/operation-system/Race Condition', '- 경쟁 상태(Race Condition)'],
+                                ['/computer-science/operation-system/Semaphore & Mutex', '- 세마포어와 뮤텍스'],
+                                ['/computer-science/operation-system/Paging and Segmentation', '- 페이징과 세그먼테이션'],
+                                ['/computer-science/operation-system/Page Replacement Algorithm', '- 페이지 교체 알고리즘'],
+                                ['/computer-science/operation-system/Memory', '- 메모리(Memory)'],
+                                ['/computer-science/operation-system/File System', '- 파일 시스템(File System)']
+                        ]
+                    },
+                    {
+                        type: 'group',
+                        title: '● Database',
+                        collapsable: true,
+                        children: [
+                                ['/computer-science/data-base/Key', '- 키(Key)'],
+                                ['/computer-science/data-base/Join', '- 조인(Join)'],
+                                ['/computer-science/data-base/SQL Injection', '- SQL Injection'],
+                                ['/computer-science/data-base/SQL & NOSQL', '- SQL vs NOSQL'],
+                                ['/computer-science/data-base/Anomaly', '- 이상(Anomaly)'],
+                                ['/computer-science/data-base/Index-', '- 인덱스(Index)'],
+                                ['/computer-science/data-base/Transaction', '- 트랜잭션(Transaction)'],
+                                ['/computer-science/data-base/Transaction Isolation Level', '- 트랜잭션 격리 수준'],
+                                ['/computer-science/data-base/Redis', '- 레디스(Redis)']
+
+                        ]
+                    },
+                    {
+                        type: 'group',
+                        title: '● Network',
+                        collapsable: true,
+                        children: [
+                                ['/computer-science/network/OSI 7계층', '- OSI 7계층'],
+                                ['/computer-science/network/TCP 3 way handshake & 4 way handshake', '- TCP 3 & 4 way handshake'],
+                                ['/computer-science/network/흐름제어 & 혼잡제어', '- TCP/IP 흐름제어 & 혼잡제어'],
+                                ['/computer-science/network/UDP', '- UDP'],
+                                ['/computer-science/network/대칭키 & 공개키', '- 대칭키 & 공개키'],
+                                ['/computer-science/network/HTTP & HTTPS', '- HTTP & HTTPS'],
+                                ['/computer-science/network/Load Balancing', '- 로드밸런싱(Load Balancing)'],
+                                ['/computer-science/network/Blocking & Non-Blocking', '- Blocking & Non-Blocking I/O']
+                        ]
+                    },
+                    {
+                        type: 'group',
+                        title: '● Software Engineering',
+                        collapsable: true,
+                        children: [
+                                ['/computer-science/software-engineering/Clean Code & Refactoring', '- 클린코드 & 리팩토링'],
+                                ['/computer-science/software-engineering/Clean Code & Secure Coding', '- 클린코드 & 시큐어 코딩'],
+                                ['/computer-science/software-engineering/TDD', '- 테스트 주도 개발(TDD)'],
+                                ['/computer-science/software-engineering/Agile', '- 애자일(Agile)'],
+                                ['/computer-science/software-engineering/Object-Oriented Programming', '- 객체 지향 프로그래밍'],
+                                ['/computer-science/software-engineering/Fuctional Programming', '- 함수형 프로그래밍'],
+                                ['/computer-science/software-engineering/DevOps', '- 데브옵스(DevOps)'],
+                                ['/computer-science/software-engineering/3rd party', '- 서드파티(3rd party)']
+                        ]
+                    }
+                ]
+            },
+            {
+                title: '📌 Design Pattern',
+                collapsable: true,
+                children: [ 
+                    ['/design-pattern/Overview','- 디자인패턴 개요'],
+                    ['/design-pattern/Adapter Pattern','- 어댑터 패턴'],
+                    ['/design-pattern/Singleton Pattern','- 싱글톤 패턴'],
+                    ['/design-pattern/Template Method Pattern','- 템플릿 메소드 패턴'],
+                    ['/design-pattern/Factory Method Pattern','- 팩토리 메소드 패턴'],
+                    ['/design-pattern/Observer Pattern','- 옵저버 패턴'],
+                    ['/design-pattern/Strategy Pattern','- 스트레티지 패턴']
+                ]
+            },
+            {
+                type : 'group',
+                title: '📌 Language',
+                collapsable: true,
+                children: [
+                    {
+                        type: 'group',
+                        title: '● C',
+                        collapsable: true,
+                        children: [
+                            ['/computer-language/C/컴파일 과정', '- 컴파일 과정'],
+                            ['/computer-language/C/구조체 메모리 크기 계산', '- 구조체 메모리 크기 계산'],
+                            ['/computer-language/C/포인터', '- 포인터'],
+                            ['/computer-language/C/동적할당', '- 동적할당']
+                        ]
+                    },
+                    {
+                        type: 'group',
+                        title: '● Cpp',
+                        collapsable: true,
+                        children: [
+                                ['/computer-language/Cpp/가상 함수', '- 가상 함수(Virtual function)'],
+                                ['/computer-language/Cpp/입출력 실행속도 줄이는 법', '- 입출력 실행속도 줄이는 법'],
+                        ]
+                    },
+                    {
+                        type: 'group',
+                        title: '● Java',
+                        collapsable: true,
+                        children: [
+                            ['/computer-language/Java/컴파일 과정', '- 컴파일 과정'],
+                            ['/computer-language/Java/Call by value & Call by reference', '- Call by value & Call by reference'],
+                            ['/computer-language/Java/Primitive type & Reference type', '- Primitive type & Reference type'],
+                            ['/computer-language/Java/String & StringBuilder & StringBuffer', '- 문자열 클래스'],
+                            ['/computer-language/Java/Wait & notify & notifyAll', '- 오브젝트 클래스'],
+                            ['/computer-language/Java/Casting', '- 캐스팅(Casting)'],
+                            ['/computer-language/Java/Thread', '- 스레드(Thread)'],
+                            ['/computer-language/Java/Intrinsic Lock', '- 고유 락(Intrinsic Lock)'],
+                            ['/computer-language/Java/Java Virtual Machine', '- 자바 가상 머신(Java Virtual Machine)'],
+                            ['/computer-language/Java/Garbage Collection', '- 가비지 컬렉션(Garbage Collection)'],
+                            ['/computer-language/Java/Error & Exception', '- Error & Exception']
+                        ]
+                    }
+                ]
+            },
+            {
+                type : 'group',
+                title: '📌 Web',
+                collapsable: true,
+                children: [ 
+                    ['/web-knowledge/브라우저 동작 방법','- 브라우저 동작 방법'],
+                    ['/web-knowledge/Cookie & Session','- 쿠키 & 세션'],
+                    ['/web-knowledge/HTTP status code','- HTTP status code'],
+                    ['/web-knowledge/REST API','- REST API'],
+                    ['/web-knowledge/Web Server와 WAS의 차이','- Web Server와 WAS'],
+                    ['/web-knowledge/OAuth','- OAuth'],
+                    ['/web-knowledge/JWT','- JWT(JSON Web Token)'],
+                    ['/web-knowledge/인증방식','- 인증 방식'],
+                    ['/web-knowledge/Logging Level','- 로깅 레벨(Logging Level)'],
+                    ['/web-knowledge/UI와 UX','- UI와 UX'],
+                    ['/web-knowledge/CSR & SSR','- CSR & SSR'],
+                    ['/web-knowledge/네이티브 앱 & 웹 앱 & 하이브리드 앱','- 네이티브 앱 & 웹 앱 & 하이브리드 앱'],
+                    ['/web-knowledge/Vue.js와 React의 차이','- Vue.js와 React'],
+                    ['/web-knowledge/PWA','- PWA(Progressive Web App)'],
+                    {
+                        type: 'group',
+                        title: '● Vue.js',
+                        collapsable: true,
+                        children: [
+                            ['/web-knowledge/vue-knowledge/Vue.js 라이프사이클','- Vue.js 라이프사이클'],
+                            ['/web-knowledge/vue-knowledge/Vue CLI + Spring Boot 연동하여 환경 구축하기','- Vue CLI + Spring Boot 연동하여 환경 구축'],
+                            ['/web-knowledge/vue-knowledge/Vue.js + Firebase로 이메일 회원가입, 로그인 구현','- Vue.js + Firebase로 이메일 회원가입, 로그인 구현'],
+                            ['/web-knowledge/vue-knowledge/Vue.js + Firebase로 페이스북 로그인 연동하기','- Vue.js + Firebase로 페이스북 로그인 연동'],
+                            ['/web-knowledge/vue-knowledge/Nuxt.js','- Nuxt.js'],
+                        ]
+                    },
+                    {
+                        type: 'group',
+                        title: '● React',
+                        collapsable: true,
+                        children: [
+                            ['/web-knowledge/react-knowledge/React & Spring Boot 연동하여 환경 구축하기','- React & Spring Boot 연동하여 환경 구축'],
+                        ]
+                    }
+                ]
+            },
+            {
+                title: '📌 Interview',
+                collapsable: true,
+                children: [ 
+                    ['/interview/언어','- 언어'],
+                    ['/interview/운영체제','- 운영체제'],
+                    ['/interview/데이터베이스','- 데이터베이스'],
+                    ['/interview/네트워크','- 네트워크'],
+                    ['/interview/웹','- 웹'],
+                ]
+            },
+            {
+                title: '📌 Linux',
+                collapsable: true,
+                children: [ 
+                    ['/linux/Linux Basic Command','- 기본 명령어'],
+                    ['/linux/Permission','- Permission 활용'],
+                    ['/linux/Von Neumann Architecture','- 폰 노이만 구조']
+                ]
+            },{
+                title: '📌 GitHub',
+                collapsable: true,
+                children: [ 
+                    ['/github/GitHub Fork로 협업하기','- GitHub Fork로 협업하기'],
+                    ['/github/GitHub repository 미러링','- GitHub Repository 미러링하기'],
+                    ['/github/Collaborate with Git on Javascript and Node.js','- Javascript와 Node.js로 Git을 통해 협업하기']
+                ]
+            }
+        ],
+        sidebarDepth: 0,
+        nav: [
+            { text: 'Github', link: 'https://github.com/gyoogle/tech-interview-for-developer' },
+        ],
+        smoothScroll: true,
+        lastUpdated: '최종 수정'
+    }
+}
