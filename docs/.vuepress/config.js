@@ -279,6 +279,7 @@ module.exports = {
         ],
         sidebarDepth: 0,
         nav: [
+            { text: 'Home', link: 'https://gyoogle.dev/',  target:'_self'},
             { text: 'Github', link: 'https://github.com/gyoogle/tech-interview-for-developer' },
         ],
         smoothScroll: true,
