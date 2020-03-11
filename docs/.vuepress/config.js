@@ -2,7 +2,7 @@ module.exports = {
     title: '👨🏻‍💻 Tech Interview',
     description: 'Ready for Tech-Interview',
     email: 'gyuseok6394@gmail.com',
-    base: '/',
+    base: '/blog/',
     head: [
         ['link', { rel: 'icon', href: `/images/logo.png` }],
         ['link', { rel: 'manifest', href: '/manifest.json' }]
