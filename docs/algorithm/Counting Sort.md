@@ -1,4 +1,4 @@
-# Counting Sort(계수 정렬)
+# 계수 정렬(Counting Sort)
 
 ---
 

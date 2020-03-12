@@ -1,4 +1,4 @@
-# 동적 계획법 (Dynamic Programming)
+# 동적 계획법(Dynamic Programming)
 
 ---
 

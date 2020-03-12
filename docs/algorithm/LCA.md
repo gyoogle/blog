@@ -1,4 +1,4 @@
-# LCA(Lowest Common Ancestor) 알고리즘
+# 최소 공통 조상(Lowest Common Ancestor) 알고리즘
 
 ---
 

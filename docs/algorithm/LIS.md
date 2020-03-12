@@ -1,4 +1,4 @@
-# LIS (Longest Increasing Sequence)
+# 최장 증가 수열(Longest Increasing Sequence)
 
 ---
 
