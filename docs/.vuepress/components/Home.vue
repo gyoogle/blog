@@ -14,8 +14,8 @@
       <h5 style="color: gray;"> [제작] : Gyuseok Kim (gyuseok6394@gmail.com)<br><br></h5>
       <a href="https://github.com/gyoogle/tech-interview-for-developer" target="_blank"> [⭐️GitHub Repository Link⭐️] </a>
     <br/><br/>
-    <h5>✔️ 주관적인 정리 내용으로 잘못된 정보가 있을 수 있습니다 ✔️
-      <br><br>💡 해당 게시글 댓글이나 메일로 알려주세요! 💡</h5>
+    <h5>✔️주관적인 정리 내용으로 잘못된 정보가 있을 수 있습니다✔️
+      <br><br>💡해당 게시글 댓글이나 메일로 알려주세요!💡</h5>
     </div>
 
     <br/><br/>
