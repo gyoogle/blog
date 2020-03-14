@@ -6,7 +6,7 @@
 
 <style>
     .content {
-        padding-top: 5vw;
+        padding-top: 3vw;
         padding-left: 9vw;
         padding-right: 9vw;
     }
