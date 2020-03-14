@@ -12,7 +12,13 @@ module.exports = {
         ['@vuepress/pwa', {
           serviceWorker: true,
           updatePopup: true
-        }]
+        }],
+        [
+            '@vuepress/google-analytics',
+            {
+              'ga': 'G-YV10PPZEFN'
+            }
+          ]
     ],
     themeConfig: {
         sidebar: [
