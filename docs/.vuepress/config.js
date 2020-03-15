@@ -289,6 +289,6 @@ module.exports = {
             { text: 'Github', link: 'https://github.com/gyoogle/tech-interview-for-developer' },
         ],
         smoothScroll: true,
-        lastUpdated: '최종 수정'
+        lastUpdated: '최종 수정 '
     }
 }
