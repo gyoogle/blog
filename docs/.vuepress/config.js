@@ -210,7 +210,15 @@ module.exports = {
                             ['/computer-language/Java/Garbage Collection', '- 가비지 컬렉션(Garbage Collection)'],
                             ['/computer-language/Java/Error & Exception', '- Error & Exception']
                         ]
-                    }
+                    },
+                    {
+                        type: 'group',
+                        title: '● Javascript',
+                        collapsable: true,
+                        children: [
+                                ['/computer-language/Javascript/es2015', '- ES2015+ 요약']
+                        ]
+                    },
                 ]
             },
             {
