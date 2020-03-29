@@ -189,6 +189,7 @@ module.exports = {
                         title: '● Cpp',
                         collapsable: true,
                         children: [
+                                ['/computer-language/Cpp/shallow copy vs deep copy', '- 얕은 복사 vs 깊은 복사'],
                                 ['/computer-language/Cpp/가상 함수', '- 가상 함수(Virtual function)'],
                                 ['/computer-language/Cpp/입출력 실행속도 줄이는 법', '- 입출력 실행속도 줄이는 법'],
                         ]
