@@ -290,7 +290,26 @@ module.exports = {
                     ['/github/GitHub repository 미러링','- GitHub Repository 미러링하기'],
                     ['/github/Collaborate with Git on Javascript and Node.js','- Javascript와 Node.js로 Git을 통해 협업하기']
                 ]
-            }
+            },
+            {
+                type : 'group',
+                title: '📌 ETC',
+                collapsable: true,
+                children: [
+                    {
+                        type: 'group',
+                        title: '● 반도체',
+                        collapsable: true,
+                        children: [
+                            ['/etc/semiconductor/1. 반도체란','- 1. 반도체란'],
+                            ['/etc/semiconductor/2. 반도체의 원리','- 2. 반도체의 원리'],
+                            ['/etc/semiconductor/3. 반도체의 진화','- 3. 반도체의 진화'],
+                            ['/etc/semiconductor/4. 반도체의 단위','- 4. 반도체의 단위'],
+                            ['/etc/semiconductor/5. 반도체의 산업 형태','- 5. 반도체의 산업 형태'],
+                        ]
+                    },
+                ]
+            },
         ],
         sidebarDepth: 0,
         nav: [
