@@ -298,6 +298,15 @@ module.exports = {
                 children: [
                     {
                         type: 'group',
+                        title: '● 토익스피킹',
+                        collapsable: true,
+                        children: [
+                            ['/etc/toeic-speaking/part-1','- 파트1. 지문 읽기'],
+                            ['/etc/toeic-speaking/part-2','- 파트2. 사진 묘사'],
+                        ]
+                    },
+                    {
+                        type: 'group',
                         title: '● 반도체',
                         collapsable: true,
                         children: [
