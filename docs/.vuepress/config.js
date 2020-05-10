@@ -303,6 +303,10 @@ module.exports = {
                         children: [
                             ['/etc/toeic-speaking/part-1','- 파트1. 지문 읽기'],
                             ['/etc/toeic-speaking/part-2','- 파트2. 사진 묘사'],
+                            ['/etc/toeic-speaking/part-3','- 파트3. 질문 답변'],
+                            ['/etc/toeic-speaking/part-4','- 파트4. 표 이해하기'],
+                            ['/etc/toeic-speaking/part-5','- 파트5. 해결책 제안'],
+                            ['/etc/toeic-speaking/part-6','- 파트6. 의견 제시']
                         ]
                     },
                     {
