@@ -116,7 +116,6 @@ Refresh Token또한 유효기간이 만료됐다면, 사용자는 새로 로그�
 
 <br>
 
-![
-](https://lh3.googleusercontent.com/8iCnianYLcjGv5ool7MysE3YlXSs-JL_Lb0yvsayusvhLHXh8iA62vYL0XBZFUkxTNbcivwRvnpi "JWT 인증방식")
+<img src="https://camo.githubusercontent.com/0fcc5fdd7d589d975360d4efca148bc26587b912/68747470733a2f2f7374617469632e7061636b742d63646e2e636f6d2f70726f64756374732f393738313738343339353430372f67726170686963732f4230333635335f30385f30322e6a7067">
 
 <br>
