@@ -288,6 +288,7 @@ module.exports = {
                 children: [ 
                     ['/github/GitHub Fork로 협업하기','- GitHub Fork로 협업하기'],
                     ['/github/GitHub repository 미러링','- GitHub Repository 미러링하기'],
+                    ['/github/Git vs GitHub vs GitLab Flow','- Git & GitHub & GitLab Flow'],
                     ['/github/Collaborate with Git on Javascript and Node.js','- Javascript와 Node.js로 Git을 통해 협업하기']
                 ]
             },
