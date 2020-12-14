@@ -12,7 +12,7 @@
       <div style="font-weight: bold; font-size: 2.2em; line-height: 1.2em;">Tech Interview for developer</div>
       <h4>👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖</h4>
       <h5 style="color: gray;"> [제작] : Gyuseok Kim &nbsp; (Email : gyuseok6394@gmail.com)<br><br></h5>
-      <a href="https://github.com/gyoogle/tech-interview-for-developer" target="_blank"> [⭐️GitHub Repository Link⭐️] </a> <br/>
+      <a href="https://github.com/gyoogle/tech-interview-for-developer" target="_blank"> [⭐️GitHub Repository Link⭐️] </a> <br/><br/>
       <a href="https://github.com/gyoogle/tech-interview-for-developer/watchers"><img src="https://img.shields.io/github/watchers/gyoogle/tech-interview-for-developer.svg?style=social"/></a>
       <a href="https://github.com/gyoogle/tech-interview-for-developer/stargazers"><img src="https://img.shields.io/github/stars/gyoogle/tech-interview-for-developer.svg?style=social"/></a>
       <a href="https://github.com/gyoogle/tech-interview-for-developer/network/members"><img src="https://img.shields.io/github/forks/gyoogle/tech-interview-for-developer.svg?style=social"/></a>
