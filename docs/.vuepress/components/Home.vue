@@ -37,7 +37,11 @@
        This site/repository is licensed under the MIT license. See <a href="https://github.com/gyoogle/blog/blob/master/LICENSE" target="_blank">LICENSE</a> for details.
       </p>
     </div>
-    <br><br><br><br>
+    <br><br>
+    <a href="https://www.buymeacoffee.com/gyoogle" target="_blank">
+      <img src="./../public/images/BMC.png">
+    <a>
+    <br><br>
     <p class="custom">⬇️⬇️⬇️ 방명록 ⬇️⬇️⬇️</p>
     <p style="text-align:center;color: gray;">자유롭게 남겨주세요 💌</p>
   </div>
