@@ -26,7 +26,9 @@
     <h5>✔️주관적인 정리 내용으로 잘못된 정보가 있을 수 있습니다✔️
       <br><br>💡 해당 게시글 댓글이나 메일로 알려주세요! 💡</h5>
     </div>
-
+    <a href="https://www.buymeacoffee.com/gyoogle" target="_blank">
+      <img src="./../public/images/BMC.png" width="150px" height="80px">
+    </a>
     <br/><br/>
   
     <div class="footer">
@@ -38,9 +40,7 @@
       </p>
     </div>
     <br><br>
-    <a href="https://www.buymeacoffee.com/gyoogle" target="_blank">
-      <img src="./../public/images/BMC.png" width="200px" height="100px">
-    <a>
+    
     <br><br>
     <p class="custom">⬇️⬇️⬇️ 방명록 ⬇️⬇️⬇️</p>
     <p style="text-align:center;color: gray;">자유롭게 남겨주세요 💌</p>
