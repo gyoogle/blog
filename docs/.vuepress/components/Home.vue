@@ -39,7 +39,7 @@
     </div>
     <br><br>
     <a href="https://www.buymeacoffee.com/gyoogle" target="_blank">
-      <img src="./../public/images/BMC.png">
+      <img src="./../public/images/BMC.png" width="200px" height="100px">
     <a>
     <br><br>
     <p class="custom">⬇️⬇️⬇️ 방명록 ⬇️⬇️⬇️</p>
