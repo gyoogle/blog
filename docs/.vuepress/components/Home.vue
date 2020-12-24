@@ -22,8 +22,9 @@
       <a href="#contributors"><img src="https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square"/></a>
       <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
       <br>
+      <br>
       <a href="https://www.buymeacoffee.com/gyoogle" target="_blank">
-      <img src="./../public/images/BMC.png" width="150px" height="50px">
+      <img src="./../public/images/BMC.png" width="180px" height="50px">
       </a>
       <br/><br/>
     <h5>✔️주관적인 정리 내용으로 잘못된 정보가 있을 수 있습니다✔️
