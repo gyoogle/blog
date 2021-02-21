@@ -220,6 +220,14 @@ module.exports = {
                                 ['/computer-language/Javascript/es2015', '- ES2015+ 요약']
                         ]
                     },
+                    {
+                        type: 'group',
+                        title: '● Python',
+                        collapsable: true,
+                        children: [
+                                ['/computer-language/Python/[Python] 매크로 라이브러리', '- 매크로 사용법']
+                        ]
+                    },
                 ]
             },
             {
