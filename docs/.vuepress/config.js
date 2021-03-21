@@ -150,7 +150,8 @@ module.exports = {
                                 ['/computer-science/software-engineering/Object-Oriented Programming', '- 객체 지향 프로그래밍'],
                                 ['/computer-science/software-engineering/Fuctional Programming', '- 함수형 프로그래밍'],
                                 ['/computer-science/software-engineering/DevOps', '- 데브옵스(DevOps)'],
-                                ['/computer-science/software-engineering/3rd party', '- 서드파티(3rd party)']
+                                ['/computer-science/software-engineering/3rd party', '- 서드파티(3rd party)'],
+                                ['/computer-science/software-engineering/MSA', '- 마이크로서비스 아키텍처(MSA)']
                         ]
                     }
                 ]
