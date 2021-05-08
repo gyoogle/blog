@@ -166,7 +166,9 @@ module.exports = {
                     ['/design-pattern/Template Method Pattern','- 템플릿 메소드 패턴'],
                     ['/design-pattern/Factory Method Pattern','- 팩토리 메소드 패턴'],
                     ['/design-pattern/Observer Pattern','- 옵저버 패턴'],
-                    ['/design-pattern/Strategy Pattern','- 스트레티지 패턴']
+                    ['/design-pattern/Strategy Pattern','- 스트레티지 패턴'],
+                    ['/design-pattern/Composite Pattern','- 컴포지트 패턴'],
+                    ['/design-pattern/SOLID','- SOLID']
                 ]
             },
             {
@@ -250,6 +252,7 @@ module.exports = {
                     ['/web-knowledge/네이티브 앱 & 웹 앱 & 하이브리드 앱','- 네이티브 앱 & 웹 앱 & 하이브리드 앱'],
                     ['/web-knowledge/Vue.js와 React의 차이','- Vue.js와 React'],
                     ['/web-knowledge/PWA','- PWA(Progressive Web App)'],
+                    ['/web-knowledge/CSRF & XSS','- CSRF & XSS'],
                     {
                         type: 'group',
                         title: '● Vue.js',
