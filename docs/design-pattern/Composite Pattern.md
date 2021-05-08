@@ -5,7 +5,7 @@ compositie pattern의 사용 목적은 object의 **hierarchies**를 표현하고
 
 아래 Composite pattern의 class diagram을 보자
 
-![composite pattenr](../resources/composite_pattern_1.PNG)
+![composite pattenr](https://github.com/gyoogle/tech-interview-for-developer/raw/master/resources/composite_pattern_1.PNG)
 
 위의 그림의 Leaf 클래스와 Composite 클래스를 같은 interface로 제어하기 위해서 Component abstract 클래스를 생성하였다.
 
@@ -82,7 +82,7 @@ public class Composite extends Component {
 - 어떤 클래스가 children을 관리할 것인가?
 
 ## Children 관리를 위한 2가지 Composite pattern
-![composite pattenr](../resources/composite_pattern_1.PNG)
+![composite pattenr](https://github.com/gyoogle/tech-interview-for-developer/raw/master/resources/composite_pattern_1.PNG)
 
 위의 예제로 Component 클래스에 add, removem getChild 같은 method가 선언이 되어있으며 Transparency를 제공한다.
 
@@ -90,7 +90,7 @@ public class Composite extends Component {
 
 단점 : Leaf 클래스가 chidren 관리 함수 호출 시 run time에 exception이 발생한다.
 
-![composite pattenr](../resources/composite_pattern_2.PNG)
+![composite pattenr](https://github.com/gyoogle/tech-interview-for-developer/raw/master/resources/composite_pattern_2.PNG)
 
 이전 예제에서 children을 관리하는 함수를 Composite 클래스에 선언 되어있으며 Safety를 제공한다.
 
