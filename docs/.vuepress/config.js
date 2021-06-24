@@ -255,6 +255,15 @@ module.exports = {
                     ['/web-knowledge/CSRF & XSS','- CSRF & XSS'],
                     {
                         type: 'group',
+                        title: '● Spring',
+                        collapsable: true,
+                        children: [
+                            ['/web-knowledge/spring-knowledge/Spring Security - Authentication and Authorization','- Spring Security - 인증 및 권한 부여'],
+                            ['/web-knowledgespring-knowledge/JPA','- JPA'],
+                        ]
+                    },
+                    {
+                        type: 'group',
                         title: '● Vue.js',
                         collapsable: true,
                         children: [
