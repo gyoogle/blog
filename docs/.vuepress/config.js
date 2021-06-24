@@ -259,7 +259,7 @@ module.exports = {
                         collapsable: true,
                         children: [
                             ['/web-knowledge/spring-knowledge/Spring Security - Authentication and Authorization','- Spring Security - 인증 및 권한 부여'],
-                            ['/web-knowledgespring-knowledge/JPA','- JPA'],
+                            ['/web-knowledge/spring-knowledge/JPA','- JPA'],
                         ]
                     },
                     {
