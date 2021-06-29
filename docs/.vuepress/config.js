@@ -205,6 +205,7 @@ module.exports = {
                             ['/computer-language/Java/컴파일 과정', '- 컴파일 과정'],
                             ['/computer-language/Java/Call by value & Call by reference', '- Call by value & Call by reference'],
                             ['/computer-language/Java/Primitive type & Reference type', '- Primitive type & Reference type'],
+                            ['/computer-language/Java/Auto Boxing & Unboxing', '- 오토 박싱 & 언박싱'],
                             ['/computer-language/Java/String & StringBuilder & StringBuffer', '- 문자열 클래스'],
                             ['/computer-language/Java/Wait & notify & notifyAll', '- 오브젝트 클래스'],
                             ['/computer-language/Java/Casting', '- 캐스팅(Casting)'],
