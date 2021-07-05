@@ -206,6 +206,7 @@ module.exports = {
                             ['/computer-language/Java/Call by value & Call by reference', '- Call by value & Call by reference'],
                             ['/computer-language/Java/Primitive type & Reference type', '- Primitive type & Reference type'],
                             ['/computer-language/Java/Auto Boxing & Unboxing', '- 오토 박싱 & 언박싱'],
+                            ['/computer-language/Java/Serialization', '- 직렬화(Serialization)'],
                             ['/computer-language/Java/String & StringBuilder & StringBuffer', '- 문자열 클래스'],
                             ['/computer-language/Java/Wait & notify & notifyAll', '- 오브젝트 클래스'],
                             ['/computer-language/Java/Casting', '- 캐스팅(Casting)'],
@@ -213,7 +214,8 @@ module.exports = {
                             ['/computer-language/Java/Intrinsic Lock', '- 고유 락(Intrinsic Lock)'],
                             ['/computer-language/Java/Java Virtual Machine', '- 자바 가상 머신(Java Virtual Machine)'],
                             ['/computer-language/Java/Garbage Collection', '- 가비지 컬렉션(Garbage Collection)'],
-                            ['/computer-language/Java/Error & Exception', '- Error & Exception']
+                            ['/computer-language/Java/Error & Exception', '- Error & Exception'],
+                            ['/computer-language/Java/Stream', '- Stream API']
                         ]
                     },
                     {
@@ -221,7 +223,10 @@ module.exports = {
                         title: '● Javascript',
                         collapsable: true,
                         children: [
-                                ['/computer-language/Javascript/es2015', '- ES2015+ 요약']
+                                ['/computer-language/Javascript/es2015', '- ES2015+ 요약'],
+                                ['/computer-language/Javascript/Data Type', '- 데이터 타입'],
+                                ['/computer-language/Javascript/Object Prototype', '- Object Prototype'],
+                                ['/computer-language/Javascript/Closure', '- Closure']
                         ]
                     },
                     {
@@ -259,6 +264,7 @@ module.exports = {
                         title: '● Spring',
                         collapsable: true,
                         children: [
+                            ['/web-knowledge/spring-knowledge/Spring MVC','- Spring MVC Framework'],
                             ['/web-knowledge/spring-knowledge/Spring Security - Authentication and Authorization','- Spring Security - 인증 및 권한 부여'],
                             ['/web-knowledge/spring-knowledge/JPA','- JPA'],
                         ]
