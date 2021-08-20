@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/ko/thumb/a/a1/Von_Neumann_architecture_kor.png/375px-Von_Neumann_architecture_kor.png" width="300">
+<img src="https://camo.githubusercontent.com/0a5c4bfb15107785cccde00a399ae3205dca7c4d9b14ffa44d0e4dce30d8241f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65352f566f6e5f4e65756d616e6e5f4172636869746563747572652e737667" width="300">
 
 <br>
 
