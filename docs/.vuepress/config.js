@@ -135,7 +135,7 @@ module.exports = {
                                 ['/computer-science/network/대칭키 & 공개키', '- 대칭키 & 공개키'],
                                 ['/computer-science/network/HTTP & HTTPS', '- HTTP & HTTPS'],
                                 ['/computer-science/network/Load Balancing', '- 로드밸런싱(Load Balancing)'],
-								['/computer-science/network/Blocking,Non-blocking & Synchronous,Asynchronous', '- Blocking/Non-blocking & Synchronous/Asynchronous']
+								['/computer-science/network/Blocking,Non-blocking & Synchronous,Asynchronous', '- Blocking/Non-blocking & Synchronous/Asynchronous'],
                                 ['/computer-science/network/Blocking & Non-Blocking', '- Blocking & Non-Blocking I/O']
                         ]
                     },
