@@ -47,6 +47,7 @@ module.exports = {
                     ['/algorithm/LIS','- 최장 증가 수열(LIS)'],
                     ['/algorithm/LCA','- 최소 공통 조상(LCA)'],
                     ['/algorithm/Dynamic Programming','- 동적 계획법(DP)'],
+                    ['/algorithm/다익스트라(Dijkstra)','- 다익스트라(Dijkstra) 알고리즘'],
                     ['/algorithm/BitMask','- 비트마스크(BitMask)']
                 ]
             },
