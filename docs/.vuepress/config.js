@@ -79,6 +79,7 @@ module.exports = {
                                 ['/computer-science/data-structure/Array vs ArrayList vs LinkedList', '- Array & ArrayList & LinkedList'],
                                 ['/computer-science/data-structure/Stack & Queue', '- 스택 & 큐'],
                                 ['/computer-science/data-structure/Heap', '- 힙(Heap)'],
+                                ['/computer-science/data-structure/Tree', '- 트리(Tree)'],
                                 ['/computer-science/data-structure/Binary Search Tree', '- 이진 탐색 트리'],
                                 ['/computer-science/data-structure/Hash', '- 해시(Hash)'],
                                 ['/computer-science/data-structure/Trie', '- 트라이(Trie)'],
