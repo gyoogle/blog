@@ -296,6 +296,15 @@ module.exports = {
                             ['/web-knowledge/react-knowledge/React Hook','- React Hook'],
                             ['/web-knowledge/react-knowledge/React & Spring Boot 연동하여 환경 구축하기','- React & Spring Boot 연동하여 환경 구축'],
                         ]
+                    },
+                    {
+                        type: 'group',
+                        title: '● DevOps',
+                        collapsable: true,
+                        children: [
+                            ['/web-knowledge/devops-knowledge/[AWS] 스프링 부트 배포 스크립트 생성','- [AWS] 스프링 부트 배포 스크립트 생성'],
+                            ['/web-knowledge/devops-knowledge/[Travis CI] 프로젝트 연동하기','- [Travis CI] 프로젝트 연동하기'],
+                        ]
                     }
                 ]
             },
