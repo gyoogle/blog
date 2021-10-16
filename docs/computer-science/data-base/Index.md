@@ -1,7 +1,5 @@
 # Index
 
----
-
 <br>
 
 ### DB Index
@@ -53,7 +51,6 @@ Index를 사용하지 않는 경우, MYI 파일은 비어져 있음. 그러나, 
   (3) Join에 자주 사용되는 Column
   <br>
   
-
 * **Index 사용을 피해야 하는 경우**
 
   (1) Data 중복도가 높은 Column
