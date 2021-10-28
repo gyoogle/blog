@@ -219,7 +219,8 @@ module.exports = {
                             ['/computer-language/Java/Java Virtual Machine', '- 자바 가상 머신(Java Virtual Machine)'],
                             ['/computer-language/Java/Garbage Collection', '- 가비지 컬렉션(Garbage Collection)'],
                             ['/computer-language/Java/Error & Exception', '- Error & Exception'],
-                            ['/computer-language/Java/Stream', '- Stream API']
+                            ['/computer-language/Java/Stream', '- Stream API'],
+							['/computer-language/Java/Record', '- Record']
                         ]
                     },
                     {
