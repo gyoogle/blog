@@ -137,6 +137,7 @@ module.exports = {
                                 ['/computer-science/network/UDP', '- UDP'],
                                 ['/computer-science/network/대칭키 & 공개키', '- 대칭키 & 공개키'],
                                 ['/computer-science/network/HTTP & HTTPS', '- HTTP & HTTPS'],
+                                ['/computer-science/network/TLS HandShake', '- TLS/SSL HandShake'],
                                 ['/computer-science/network/Load Balancing', '- 로드밸런싱(Load Balancing)'],
 								['/computer-science/network/Blocking,Non-blocking & Synchronous,Asynchronous', '- Blocking/Non-blocking & Synchronous/Asynchronous'],
                                 ['/computer-science/network/Blocking & Non-Blocking', '- Blocking & Non-Blocking I/O']
@@ -269,7 +270,8 @@ module.exports = {
                         title: '● Spring',
                         collapsable: true,
                         children: [
-                            ['/web-knowledge/spring-knowledge/Spring MVC','- Spring MVC Framework'],
+                            ['/web-knowledge/spring-knowledge/[Spring] Bean Scope','- [Spring] Bean Scope'],
+                            ['/web-knowledge/spring-knowledge/Spring MVC','- [Spring] MVC Framework'],
                             ['/web-knowledge/spring-knowledge/[Spring Boot] SpringApplication','- [Spring Boot] SpringApplication'],
                             ['/web-knowledge/spring-knowledge/[Spring Boot] Test Code','- [Spring Boot] Test Code'],
                             ['/web-knowledge/spring-knowledge/JPA','- JPA'],
