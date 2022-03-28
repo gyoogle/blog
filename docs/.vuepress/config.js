@@ -122,7 +122,8 @@ module.exports = {
                                 ['/computer-science/data-base/Normalization', '- 정규화(Normalization)'],
                                 ['/computer-science/data-base/Transaction', '- 트랜잭션(Transaction)'],
                                 ['/computer-science/data-base/Transaction Isolation Level', '- 트랜잭션 격리 수준'],
-                                ['/computer-science/data-base/Redis', '- 레디스(Redis)']
+                                ['/computer-science/data-base/Redis', '- 레디스(Redis)'],
+								['/computer-science/data-base/Stored PROCEDURE', '- 저장 프로시저(Stored PROCEDURE)']
 
                         ]
                     },

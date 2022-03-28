@@ -19,7 +19,7 @@
       <br/><br/>
       <a href="https://gyoogle.github.io"><img src="https://img.shields.io/badge/author-gyoogle-0066FF.svg?style=flat-square"/></a>
       <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyoogle%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-      <a href="#contributors"><img src="https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square"/></a>
+      <a href="#contributors"><img src="https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square"/></a>
       <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
       <br>
       <br>
