@@ -276,7 +276,7 @@ module.exports = {
                             ['/web-knowledge/spring-knowledge/[Spring Boot] SpringApplication','- [Spring Boot] SpringApplication'],
                             ['/web-knowledge/spring-knowledge/[Spring Boot] Test Code','- [Spring Boot] Test Code'],
                             ['/web-knowledge/spring-knowledge/JPA','- JPA'],
-                            ['/web-knowledge/spring-knowledge/[Spring Data JPA] 더티 체킹 (Dirty Checking)','- [Spring Data JPA] 더티 체킹 (Dirty Checking)'],
+                            ['/web-knowledge/spring-knowledge/[Spring Data JPA] Dirty Checking','- [Spring Data JPA] 더티 체킹 (Dirty Checking)'],
                             ['/web-knowledge/spring-knowledge/Spring Security - Authentication and Authorization','- Spring Security - 인증 및 권한 부여'],
                         ]
                     },
