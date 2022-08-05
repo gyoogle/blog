@@ -4,7 +4,7 @@
 
 <br>
 
-> Open Authentification
+> Open Authorization
 
 <br>
 
