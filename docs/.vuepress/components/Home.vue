@@ -12,6 +12,7 @@
       <div style="font-weight: bold; font-size: 2.2em; line-height: 1.2em;">Tech Interview for developer</div>
       <h4>👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖</h4>
       <h5 style="color: gray;"> [제작] : Gyuseok Kim &nbsp; (Email : gyuseok6394@gmail.com)<br><br></h5>
+      <iframe src="https://github.com/sponsors/gyoogle/card" title="Sponsor gyoogle" height="225" width="600" style="border: 0;"></iframe>
       <a href="https://github.com/gyoogle/tech-interview-for-developer" target="_blank"> [⭐️GitHub Repository Link⭐️] </a> <br/><br/>
       <a href="https://github.com/gyoogle/tech-interview-for-developer/watchers"><img src="https://img.shields.io/github/watchers/gyoogle/tech-interview-for-developer.svg?style=social"/></a>
       <a href="https://github.com/gyoogle/tech-interview-for-developer/stargazers"><img src="https://img.shields.io/github/stars/gyoogle/tech-interview-for-developer.svg?style=social"/></a>
@@ -22,8 +23,6 @@
       <a href="#contributors"><img src="https://img.shields.io/badge/all_contributors-53-orange.svg?style=flat-square"/></a>
       <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
       <br>
-      <br>
-      <iframe src="https://github.com/sponsors/gyoogle/card" title="Sponsor gyoogle" height="225" width="600" style="border: 0;"></iframe>
       <br>
       <a href="https://www.buymeacoffee.com/gyoogle" target="_blank">
       <img src="./../public/images/BMC.png" width="180px" height="50px">
