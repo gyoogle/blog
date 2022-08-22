@@ -24,8 +24,7 @@
       <br/>
       <br/>
       <br/>
-      <h5>[💝후원💖]</h5>
-      <br/>
+      <a href="https://github.com/sponsors/gyoogle" target="_blank"> ❤️💝후원💘💖 </a> <br>
       <iframe src="https://github.com/sponsors/gyoogle/card" title="Sponsor gyoogle" height="225" width="600" style="border: 0;"></iframe>
       <br/><br/>
       <h5>✔️주관적인 정리 내용으로 잘못된 정보가 있을 수 있습니다✔️
