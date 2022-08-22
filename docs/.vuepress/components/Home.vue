@@ -19,13 +19,16 @@
       <br/><br/>
       <a href="https://gyoogle.github.io"><img src="https://img.shields.io/badge/author-gyoogle-0066FF.svg?style=flat-square"/></a>
       <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyoogle%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-      <a href="#contributors"><img src="https://img.shields.io/badge/all_contributors-53-orange.svg?style=flat-square"/></a>
+      <a href="#contributors"><img src="https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square"/></a>
       <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/></a>
       <br/>
       <br/>
+      <br/>
+      <h5>[💝후원💖]</h5>
+      <br/>
       <iframe src="https://github.com/sponsors/gyoogle/card" title="Sponsor gyoogle" height="225" width="600" style="border: 0;"></iframe>
       <br/><br/>
-    <h5>✔️주관적인 정리 내용으로 잘못된 정보가 있을 수 있습니다✔️
+      <h5>✔️주관적인 정리 내용으로 잘못된 정보가 있을 수 있습니다✔️
       <br><br>💡 해당 게시글 댓글이나 메일로 알려주세요! 💡</h5>
     </div>
     
