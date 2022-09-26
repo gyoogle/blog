@@ -71,7 +71,7 @@ module.exports = {
                     },
                     {
                         type: 'group',
-                        title: '● Data Structrue',
+                        title: '● Data Structure',
                         collapsable: true,
                         children: [
                                 ['/computer-science/data-structure/Array', '- 배열(Array)'],
