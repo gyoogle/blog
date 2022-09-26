@@ -309,6 +309,7 @@ module.exports = {
                         children: [
                             ['/web-knowledge/devops-knowledge/[AWS] 스프링 부트 배포 스크립트 생성','- [AWS] 스프링 부트 배포 스크립트 생성'],
                             ['/web-knowledge/devops-knowledge/[Travis CI] 프로젝트 연동하기','- [Travis CI] 프로젝트 연동하기'],
+                            ['/web-knowledge/devops-knowledge/시스템 규모 확장','- 시스템 규모 확장'],
                         ]
                     }
                 ]
