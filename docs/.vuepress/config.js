@@ -253,6 +253,7 @@ module.exports = {
                 children: [ 
                     ['/web-knowledge/브라우저 동작 방법','- 브라우저 동작 방법'],
                     ['/web-knowledge/Cookie & Session','- 쿠키 & 세션'],
+                    ['/web-knowledge/HTTP Request Methods','- HTTP Request Methods'],
                     ['/web-knowledge/HTTP status code','- HTTP status code'],
                     ['/web-knowledge/REST API','- REST API'],
                     ['/web-knowledge/Web Server와 WAS의 차이','- Web Server와 WAS'],
