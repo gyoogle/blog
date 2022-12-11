@@ -222,7 +222,8 @@ module.exports = {
                             ['/computer-language/Java/Garbage Collection', '- 가비지 컬렉션(Garbage Collection)'],
                             ['/computer-language/Java/Error & Exception', '- Error & Exception'],
                             ['/computer-language/Java/Stream', '- Stream API'],
-							['/computer-language/Java/Record', '- Record']
+							['/computer-language/Java/Record', '- Record'],
+                            ['/computer-language/Java/Interend String in Java', '- Interend String in Java']
                         ]
                     },
                     {
